@@ -6,4 +6,5 @@ Some text
 
 Edit on feature branch
 
-# master changing
+
+# quick_test changing
